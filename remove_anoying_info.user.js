@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name         Remove Annoying Info
 // @namespace    http://github.com/MunoLike/
-// @version      0.12
+// @version      0.13
 // @description  Remove Annoy Info on twitter
 // @author       MunoLike
 // @match        https://twitter.com/*
 // @icon         none
 // @grant        none
+// @updateURL    https://github.com/MunoLike/my-userscripts/raw/main/remove_anoying_info.user.js
 // ==/UserScript==
 
 let currentURL = "";
